@@ -29,7 +29,7 @@ Additional features:
 ## Demo
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/vid01.gif" width=30%>
+<img src="./screenshots/01.gif" width=30%>
 <img src="./screenshots/vid1.mp4" width=30%>
 <img src="./screenshots/vid2.mp4" width=30%>
 <img src="./screenshots/vid3.mp4" width=30%>
