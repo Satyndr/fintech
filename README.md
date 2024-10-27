@@ -30,11 +30,11 @@ Additional features:
 
 <div style="display: flex; flex-direction: 'row';">
 <img src="./screenshots/01.gif" width=30%>
-<img src="./screenshots/vid1.mp4" width=30%>
-<img src="./screenshots/vid2.mp4" width=30%>
-<img src="./screenshots/vid3.mp4" width=30%>
-<img src="./screenshots/vid4.mp4" width=30%>
-<img src="./screenshots/vid5.mp4" width=30%>
-<img src="./screenshots/vid6.mp4" width=30%>
+<img src="./screenshots/vid1.gif" width=30%>
+<img src="./screenshots/vid2.gif" width=30%>
+<img src="./screenshots/vid3.gif" width=30%>
+<img src="./screenshots/vid4.gif" width=30%>
+<img src="./screenshots/vid5.gif" width=30%>
+<img src="./screenshots/vid6.gif" width=30%>
 
 </div>
